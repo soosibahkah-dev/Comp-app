@@ -26,6 +26,16 @@
     },
     "plugins": [
       "expo-notifications"
-    ]
+    ],
+    "sdkVersion": "55.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "43abc4f1-0c1a-4c7f-a465-b3d8e8df2410"
+      }
+    }
   }
 }
